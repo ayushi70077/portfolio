@@ -1,2 +1,1 @@
-# portfolio
-it is a personal portfolio
+Personal Static Website
